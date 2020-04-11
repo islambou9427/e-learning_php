@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>E-learning | Home</title>
+    <title>E-learning | Programmation</title>
     <link rel="stylesheet" href="style/style.css">
     <script src="https://kit.fontawesome.com/f59690dd90.js" crossorigin="anonymous"></script>
 </head>
@@ -10,9 +10,7 @@
 
     <?php 
     include("menu_site/header.php");
-    include("menu_site/slider.php");
-    include("menu_site/categorie.php");
-    include("menu_site/top_courses.php");
+    include("categories/prog.php");
     include("menu_site/footer.php");
     ?>   
 

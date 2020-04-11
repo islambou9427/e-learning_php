@@ -3,38 +3,51 @@
     <h6> <hr></h6>
     <ul>
         <li>
+            <a href="Design.php">
             <img src="src/bddd.jpg" alt="" >
-            <a href="#"><i class="fas fa-pencil-ruler"></i></a>
+            <i class="fas fa-pencil-ruler"></i>
             <center><h4> Desgin </h4></center>
+            </a>
         </li>
     </ul>
 
     <ul>
         <li>
-        <img src="src/desgin.jpg" alt="" >
-            <a href="#"><i class="fas fa-code"></i></a>
+            <a href="developpementWeb.php">
+            <img src="src/desgin.jpg" alt="" >
+            <i class="fas fa-code"></i>
             <h4> Développement web </h4>
+            </a>
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/HACKER.jpg" alt="" >
-            <a href="#"><i class="fas fa-shield-alt"></i></a>
+        <a href="securite.php">
+           <img src="src/HACKER.jpg" alt="" >
+            <i class="fas fa-shield-alt"></i>
             <h4> Sécurité Informatique </h4>
+            </a>   
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/resau.jpg" alt="" >
-            <a href="#"><i class="fas fa-network-wired"></i></a>
+            
+            <a href="reseaux.php">
+            <img src="src/resau.jpg" alt="" >
+            <i class="fas fa-network-wired"></i>
             <h4> Réseaux Informatique </h4>
+            </a>
+            
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/prog.jpg" alt="" >
-            <a href="#"><i class="fas fa-laptop-code"></i></a>
+            <a href="programmation.php">
+            <img src="src/prog.jpg" alt="" >
+            <i class="fas fa-laptop-code"></i>
             <center><h4> Programmation </h4></center>
+            </a>
+            
         </li>
     </ul>
 
@@ -43,49 +56,53 @@
 
     <ul>
         <li>
+            <a href="#">
             <img src="src/web.jpg" alt="" >
-            <a href="#"><i class="fas fa-code"></i></a>
+            <i class="fas fa-code"></i>
             <h4> Développement web </h4>
+            </a>
         </li>
     </ul>
 
     <ul>
         <li>
-        <img src="src/langue.jpg" alt="" >
-            <a href="#"><i class="fas fa-language"></i></a>
+        
+            <a href="langus.php">
+            <img src="src/langue.jpg" alt="" >
+            <i class="fas fa-language"></i>
             <h4> Les Langues </h4>
+            </a>
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/ANDROID.jpg" alt="" >
-            <a href="#"><i class="fas fa-code"></i></a>
+       
+            <a href="#">
+            <img src="src/ANDROID.jpg" alt="" >
+            <i class="fas fa-code"></i>
             <h4> Développement web </h4>
+            </a>
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/NODE.png" alt="" >
-            <a href="#"><i class="fas fa-code"></i></a>
+            <a href="#">
+            <img src="src/NODE.png" alt="" >
+            <i class="fas fa-code"></i>
             <h4> Développement web </h4>
+            </a>
         </li>
     </ul>
     <ul>
         <li>
-        <img src="src/JS.png" alt="" >
-            <a href="#"><i class="fas fa-code"></i></a>
+        
+            <a href="#">
+            <img src="src/JS.png" alt="" >
+            <i class="fas fa-code"></i>
             <h4> Développement web </h4>
+            </a>
         </li>
     </ul>
 
-    <div id='btn_more'>
-        <center>
-        <button name ='shaw_more'>
-            <a href="menu_site/voir_categorie.php"></a>
-            <div id='btn_hover'><i class="fab fa-windows"></i> <h4> Voir tous les Catégorie </h4></div>
     
-        </button></center>
-    </div>
-    
-
 </div>

@@ -9,7 +9,7 @@
                  <li><a href="https://www.facebook.com"><i class="fab fa-facebook-square"></i></a></li>
                  <li><a href="https://www.linkeidn.com"><i class="fab fa-linkedin"></i></a></li>
                  <li><a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a></li>
-                 <li><a href="https://www.github.com"><i class="fab fa-github-square"></i></a></li>
+                 <li><a href="https://github.com/islambou9427"><i class="fab fa-github-square"></i></a></li>
              </ul>
          </div>
     <!-- End social media contact -->

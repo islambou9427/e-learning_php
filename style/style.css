@@ -94,14 +94,6 @@ body{ background:  }
 #categorie ul li h4{margin-top: -4.3%; position: absolute; margin-left: 2.6%; text-shadow: 1px 1px #fff; font-size: 17px; font-family: Comic Sans Ms; font-weight: bold;}
 #categorie ul li a i{margin-top: 3%; position: absolute; margin-left: -10.1%; font-size: 40px;}
 #categorie ul li img {width: 100%; height: 150px; border-radius: 10px; filter: blur(1px); -webkit-backdrop-filter: blur(1px); }
-#categorie ul li:hover{ transition:ALL 0.4s ease-in-out; border-radius:50%;}
-#categorie ul li img:hover{border-radius: 50%; transition:ALL 0.4s ease-in-out;}
-
-#btn_more button{ width:14%; height:  35px; border-radius: 6px; background: #fff; border: 1px solid #000; cursor: pointer; margin-top: 2.5%;}
-#btn_more button:hover{ background:#000;}
-#btn_hover{float: right; padding-right: 4%; font-size: 14px; font-weight: bold; color: #000;}
-#btn_hover:hover {float: right;  padding-right: 4%; font-size: 14px; font-weight: bold; color: #fff;transition:ALL 0.5s ease-in-out;}
-#btn_hover h4{float: right; margin-left: 4px;font-family: Comic Sans Ms;}
 
 /* End style categorie */
 
@@ -154,3 +146,13 @@ body{ background:  }
 #bottom_footer h4{ text-align: center; font-size: 20px; font-weight: bold; font-family: Comic Sans Ms ; color: #fff; line-height: 60px;}
 
 /* End Style footer */
+
+#prog { width: 100%; box-sizing: border-box;background: #fff;   }
+#prog h2 {font-family: Comic Sans Ms; text-align: center;  font-weight: bold; margin-top: 1.5%;margin-top: 2%;}
+#prog hr { width: 20%;margin-top: 1%; height: 2px; background-color:#9CB536;}
+
+#prog ul{ list-style-type: none;}
+#prog ul li { transition:ALL 0.2s ease-in-out; width: 17%; height: 150px; background: #fff; float: left;border-radius: 4%; margin-left: 2.5%; margin-top: 3.5%; margin-bottom: 3%;  border: 0.5px solid #000; cursor: pointer;}
+#prog ul li img {width: 100%; height: 150px; border-top-left-radius:4% ;border-top-right-radius: 4%; }
+#prog ul li:hover{ transform: scale(1.1);}
+#prog ul li img:hover{ transition:ALL 0.6s ease-in-out;}
